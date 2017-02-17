@@ -1,4 +1,8 @@
-# Simple Numerical Laplace Equation Solution using Finite Difference Method
+"""
+Simple Numerical Laplace Equation Solution using Finite Difference Method
+https://www.codeproject.com/Articles/1087025/Using-Python-to-Solve-Computational-Physics-Proble
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
