@@ -6,7 +6,7 @@ from pylab import *
 
 N = 600 #numero de passos
 #quanto maior, mais suave sera o grafico final
-# 500 ja da um grafico suave
+# 400 ja da um grafico suave
 
 """
 Temos 4  parametros para determinar: L, Ldot, theta e thetadot
