@@ -1,3 +1,8 @@
+"""
+This program calculates a random walk of Np particles with a step size of 1 in 2D and 3D. 
+It also generates figures with the trajectory for all times. 
+These figures can be used to generate a video.
+"""
 
 import random
 import numpy as np
