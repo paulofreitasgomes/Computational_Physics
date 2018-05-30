@@ -1,0 +1,7 @@
+rm /home/paulo/Dropbox/Profissional/Jatai/GitHub/computationalphysics/NK_landscape/relatorio_usp1.pdf
+cp /home/paulo/Dropbox/Profissional/usp/relatorio/relatorio_usp1.pdf /home/paulo/Dropbox/Profissional/Jatai/GitHub/computationalphysics/NK_landscape/
+git status
+git add .
+git commit -m "update relatorio"
+git push origin master
+
