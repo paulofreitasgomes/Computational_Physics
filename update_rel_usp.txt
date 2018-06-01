@@ -1,11 +1,9 @@
-cd NK_landscape
 cd figuras
 rm *.*
 cp /home/paulo/Dropbox/Profissional/usp/relatorio/figuras/fig*.pdf .
 cd ..
 rm relatorio_usp1.pdf
 cp /home/paulo/Dropbox/Profissional/usp/relatorio/relatorio_usp1.pdf .
-cd ..
 git status
 git add .
 git commit -m "update relatorio"
