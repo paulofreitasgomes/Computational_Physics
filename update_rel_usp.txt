@@ -1,6 +1,10 @@
 cd figuras
+cd Mobilidade
 cp /home/paulo/Dropbox/Profissional/usp/relatorio/figuras/Mobilidade/fig*.pdf .
+cd ..
+cd Leavitt
 cp /home/paulo/Dropbox/Profissional/usp/relatorio/figuras/Leavitt/fig*.pdf .
+cd ..
 cd ..
 rm relatorio_usp1.pdf
 cp /home/paulo/Dropbox/Profissional/usp/relatorio/relatorio_usp1.pdf .
