@@ -1,6 +1,6 @@
 cd figuras
-rm *.*
-cp /home/paulo/Dropbox/Profissional/usp/relatorio/figuras/fig*.pdf .
+cp /home/paulo/Dropbox/Profissional/usp/relatorio/figuras/Mobilidade/fig*.pdf .
+cp /home/paulo/Dropbox/Profissional/usp/relatorio/figuras/Leavitt/fig*.pdf .
 cd ..
 rm relatorio_usp1.pdf
 cp /home/paulo/Dropbox/Profissional/usp/relatorio/relatorio_usp1.pdf .
